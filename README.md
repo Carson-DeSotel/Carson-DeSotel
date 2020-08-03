@@ -8,4 +8,4 @@ Heya, welcome to my page! My name's Carson DeSotel, I'm a junior at the Universi
 My GitHub page has mainly been used to host personal projects, mainly programming, but also some more text-based documents like some essays and my resume which have been made using LaTeX. I hope to create more fleshed-out, finished projects soon! Besides programming, I'd like to use this to share and track mapping assignments that I create using ArcGIS. Hopefully we can see more of that this year!
 
 ## Contact:
-Feel free to go to [my website](www.carsondesotel.com) to learn more about me!
+Feel free to go to [my website](https://www.carsondesotel.com/) to learn more about me!
