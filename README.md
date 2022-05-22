@@ -1,13 +1,9 @@
-# Carson DeSotel
-
 ## About:
-I am a Computer Scientist and Geographer. A favorite saying being that, "Geography provides the problems and computer science provides the toolkit."
+I am currently a Software Engineer at Optum. I graduated from the University of Minnesota with a B.A. in Computer Science and a B.S. in Geography as a member of the class of 2022. 
 
-Key interest areas revolve around globalization, urbanization, big data, artifical intelligence, and software design. The world and the amount of data we use to represent it is constantly getting bigger. We need to design smart, safe, and effective solutions to lead us into the future. I find myself constantly interested in representing data and how to best design the data to accurately describe what it represents, and to be accessible for many people. 
+I think of myself as a bit of a full-stack engineer, though I prefer to work on the backend. I enjoy coming up with algorithms and data structures to solve problems as I go. I'm a strong believe in code as an art and will push for beautiful code alongside working, efficient code. Programming is an art meant to be seen by people, if people can't read it, you've done it wrong. 
 
-I also like to think I'm an educator. I love teaching and helping people reach their own goals. By my graduation, I will have spent 7 semesters as a teaching assisstant at the University of Minnesota. It's become a passion of mine that I hope to continue through personal projects.
-
-Outside that, I love listening to music, reading, cooking, and playing games of all sorts. Send any recommendations my way!
+I love listening to music, reading, cooking, and playing games of all sorts. Send any recommendations my way!
 
 ## Articles:
 - [CSpotlight: Mapping a future in computing](https://cse.umn.edu/cs/news/cspotlight-mapping-future-computing)
